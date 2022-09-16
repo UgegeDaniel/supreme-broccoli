@@ -1,0 +1,30 @@
+HTML
+CSS
+NODE
+EXPRESS
+GRAPHQL
+MONGO DB / MONGOOSE
+REACT
+APOLLO
+GIT
+
+//CONFIGURATIONS
+$ git config --global user.name "Ugege Daniel"
+$ git config  --global user.email ugege62@gmail.com
+$ git config --global core.editor "code --wait"
+$ git config --global -e
+$ git config --global core.autocrlf true
+
+//VERSION CONTROL 
+$ git init
+[code here]
+$ git status
+$ git add .
+[code here]
+$ git status
+$ git add .
+$ git commit -m "Initial commit"
+[code here]
+$ git commit -am 'commited witout adding to staging area'
+$ git rm file.txt //remove file from working directory 
+
